@@ -1,0 +1,12 @@
+{
+    "en": {
+        "gallery": "Gallery",
+        "gallerydetails": "Gallery Details",
+        "save": "Save to Gallery",
+        "share": "Share\nImage",
+        "imageSaved": "Image saved successfully.",
+        "imageShared": "Image shared successfully",
+        "imageSaveError": "Image could not be saved. Please try again.",
+        "errorLoadingPics": "Something went wrong. Please check your internet connection."
+    }
+}
